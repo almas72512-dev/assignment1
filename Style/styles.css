@@ -142,3 +142,13 @@ text-align: center;
     align-items: center;
 }
 
+.sec3{
+    height: 300px;
+    align-items: center;
+    text-align: center;
+}
+footer{
+    background-color: rgb(9, 9, 41);
+    height: 250px;
+    text-align: center;
+}
