@@ -45,7 +45,7 @@ nav{
     font-weight: 500;
     line-height: 152%;
 }
-button{
+.btn1{
     height: 44px;
     width: 164px;
     border-radius: 4px;
@@ -62,4 +62,54 @@ button{
     line-height: 19px;
     text-transform: capitalize;
     padding: 12px 16px 12px 16px;
+}
+
+.hero{
+    width: 1600px;
+    height: 764px;
+    background: url("../assets/hero-bg.png"),rgba(0, 25, 49, 0.8);
+    background-size: cover; /* image covers the section */
+    background-position: center;
+    background-repeat: no-repeat;
+
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    color: white;
+    text-align: center; */
+}
+
+.battn{
+    display: flex;
+    justify-content: center;
+}
+.btn2{
+    margin-top: 162px;
+width: 229px;
+height: 35px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 6;
+padding: 8px 12px 8px 12px;
+color: #30B868;
+text-transform: capitalize;
+border-radius: 1000px;
+
+font-family: Inter;
+font-style: Medium;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.text1{
+    width: 1360px;
+    height: 295px;
+    text-align: center;
 }
