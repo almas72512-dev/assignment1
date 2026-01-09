@@ -113,3 +113,32 @@ text-align: center;
     height: 295px;
     text-align: center;
 }
+
+.sec2 h2{
+text-align: center;
+}
+.sec2 p {
+        text-align: center;
+}
+
+.card-container{
+    background-color: aliceblue;
+    margin-top: 100px;
+    width: 1600px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.card{
+    background-color: antiquewhite;
+    height: 300px;
+    width: 300px;
+}
+
+.card-container2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
